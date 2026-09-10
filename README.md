@@ -1,12 +1,10 @@
 # Hi, I'm Sandeep Singh 👋
 
-### Senior Solutions Architect | AI & Automation Engineer | Agentic AI | Cloud & Enterprise Systems
-
 I’m a **Senior Solutions Architect and AI & Automation Engineer** with 14+ years of experience designing, building, deploying, and optimizing enterprise software, cloud infrastructure, e-commerce platforms, and AI-powered automation systems.
 
 My current focus is on building **production-ready AI systems** that connect LLMs and AI agents with enterprise APIs, databases, cloud services, business applications, and internal tools.
 
-I enjoy working at the intersection of **AI, software architecture, cloud infrastructure, automation, and real-world business problems**.
+I enjoy working at the intersection of **AI, software architecture, cloud infrastructure, automation, and real-world business problems**. I’m also an **open-source contributor**, collaborating with the developer community, contributing to open-source projects, and sharing practical solutions, tools, and engineering knowledge.
 
 ---
 
