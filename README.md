@@ -6,6 +6,8 @@ My current focus is on building **production-ready AI systems** that connect LLM
 
 I enjoy working at the intersection of **AI, software architecture, cloud infrastructure, automation, and real-world business problems**. I’m also an **open-source contributor**, collaborating with the developer community, contributing to open-source projects, and sharing practical solutions, tools, and engineering knowledge.
 
+email:- sandeep@onlinecloud.dev
+
 ---
 
 ## 🤖 What I'm Building
