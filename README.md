@@ -19,7 +19,7 @@ My current areas of focus include:
 - 🔌 **MCP (Model Context Protocol)**
 - 🛠️ **AI Tool Calling & Enterprise Integrations**
 - 🐍 **Python AI Automation**
-- ☁️ **AWS & Cloud-Native Architecture**
+- ☁️ **AWS / Azure & Cloud-Native Architecture**
 - ⚙️ **Intelligent Enterprise Workflows**
 - 🛒 **AI-powered Commerce & Adobe Commerce**
 - 🔄 **Automation, APIs & Distributed Systems**
